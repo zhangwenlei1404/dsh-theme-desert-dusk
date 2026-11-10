@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="长河落日 · 归雁南飞">
+  <defs>
+    <linearGradient id="iconSky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3a2a52"/>
+      <stop offset="45%" stop-color="#a1504f"/>
+      <stop offset="78%" stop-color="#ef9a4f"/>
+      <stop offset="100%" stop-color="#f9d79e"/>
+    </linearGradient>
+    <radialGradient id="iconSun" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fffbe6"/>
+      <stop offset="100%" stop-color="#ff9c46"/>
+    </radialGradient>
+    <linearGradient id="iconRiver" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffdfa4"/>
+      <stop offset="55%" stop-color="#b06a44"/>
+      <stop offset="100%" stop-color="#5a3222"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#iconSky)"/>
+  <circle cx="43" cy="37" r="8.5" fill="url(#iconSun)"/>
+  <g stroke="#2f2020" fill="none" stroke-linecap="round" opacity="0.9">
+    <path d="M17 17 q3.5,-2.4 7,0 q3.5,-2.4 7,0" stroke-width="1.9"/>
+    <path d="M9 22 q2.6,-1.8 5.2,0 q2.6,-1.8 5.2,0" stroke-width="1.6"/>
+    <path d="M25 9 q2.4,-1.7 4.8,0 q2.4,-1.7 4.8,0" stroke-width="1.4"/>
+  </g>
+  <path d="M2 43 C 14 39 25 45 37 43 C 47 41.4 56 45 62 43 L62 64 L2 64 Z" fill="#a1643f"/>
+  <path d="M2 44.5 C 18 40 34 47 48 44.5 C 56 43 60 45.5 62 44.5 L62 53 C 50 55 34 50 20 53 C 12 54.6 5 52.5 2 53 Z" fill="url(#iconRiver)"/>
+  <ellipse cx="43" cy="48.6" rx="7" ry="1.5" fill="#ffe3a8" opacity="0.6"/>
+  <path d="M2 53 C 16 49 33 56 47 53 C 55 51.4 59 54 62 53 L62 64 L2 64 Z" fill="#6b3a25"/>
+</svg>
