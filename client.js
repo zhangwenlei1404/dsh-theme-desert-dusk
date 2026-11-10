@@ -1,5 +1,5 @@
 window.__ModuleLoader__.load({
-  id: 'dsh-theme-desert-dusk',
+  id: '@zhangwenlei1404/dsh-theme-desert-dusk',
   factory(require) {
     /**
      * 大漠孤烟直，长河落日圆
@@ -11,7 +11,7 @@ window.__ModuleLoader__.load({
      * art through them, while raised surfaces stay opaque enough to keep text
      * legible.
      */
-    const PACKAGE_ID = 'dsh-theme-desert-dusk';
+    const PACKAGE_ID = '@zhangwenlei1404/dsh-theme-desert-dusk';
     const SCENE = 'dsh-desert-dusk-scene';
 
     const TOKENS = {

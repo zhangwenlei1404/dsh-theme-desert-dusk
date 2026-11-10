@@ -1,4 +1,4 @@
-# 大漠落日 · 归雁南飞 — dsh-theme-desert-dusk
+# 大漠落日 · 归雁南飞 — @zhangwenlei1404/dsh-theme-desert-dusk
 
 A theme plugin for the DeepSeek Harness Web GUI, built on the poem 「大漠孤烟直，长河落日圆」.
 
@@ -23,7 +23,7 @@ A single inline SVG (no external image files, no network requests):
 ## Install
 
 ```sh
-dsh plugin --profile web add dsh-theme-desert-dusk
+dsh plugin --profile web add @zhangwenlei1404/dsh-theme-desert-dusk
 ```
 
 Or straight from this repository, without npm:
@@ -34,14 +34,14 @@ dsh plugin --profile web add github:zhangwenlei1404/dsh-theme-desert-dusk
 
 After installing, hard-refresh the page (`Ctrl+Shift+R` / `Cmd+Shift+R`).
 
-Replace `web` with your own profile name if yours differs (`dsh-theme-desert-dusk` is a bundle, so it has to be enabled in the profile that serves your client).
+Replace `web` with your own profile name if yours differs (`@zhangwenlei1404/dsh-theme-desert-dusk` is a bundle, so it has to be enabled in the profile that serves your client).
 
 ## Uninstall
 
 Disable it in **Settings → Plugins**, or remove it with:
 
 ```sh
-dsh plugin --profile web remove dsh-theme-desert-dusk
+dsh plugin --profile web remove @zhangwenlei1404/dsh-theme-desert-dusk
 ```
 
 ## Notes

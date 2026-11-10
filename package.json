@@ -1,9 +1,12 @@
 {
-  "name": "dsh-theme-desert-dusk",
+  "name": "@zhangwenlei1404/dsh-theme-desert-dusk",
   "version": "1.0.0",
   "description": "大漠孤烟直，长河落日圆 —— a desert-dusk theme with geese heading south over the long river, for the Harness Web GUI",
   "type": "module",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zhangwenlei1404/dsh-theme-desert-dusk.git"
