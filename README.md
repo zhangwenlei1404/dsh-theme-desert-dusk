@@ -29,7 +29,7 @@ dsh plugin --profile web add dsh-theme-desert-dusk
 Or straight from this repository, without npm:
 
 ```sh
-dsh plugin --profile web add github:zwl/dsh-theme-desert-dusk
+dsh plugin --profile web add github:zhangwenlei1404/dsh-theme-desert-dusk
 ```
 
 After installing, hard-refresh the page (`Ctrl+Shift+R` / `Cmd+Shift+R`).

@@ -6,11 +6,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zwl/dsh-theme-desert-dusk.git"
+    "url": "git+https://github.com/zhangwenlei1404/dsh-theme-desert-dusk.git"
   },
-  "homepage": "https://github.com/zwl/dsh-theme-desert-dusk#readme",
+  "homepage": "https://github.com/zhangwenlei1404/dsh-theme-desert-dusk#readme",
   "bugs": {
-    "url": "https://github.com/zwl/dsh-theme-desert-dusk/issues"
+    "url": "https://github.com/zhangwenlei1404/dsh-theme-desert-dusk/issues"
   },
   "keywords": [
     "dsh-plugin",
